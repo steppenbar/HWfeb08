@@ -1,0 +1,17 @@
+#rowDiv{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+input[type="text"]{
+    height: 40px;
+    font-size: 20px;
+}
+
+#sudmitWeather{
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
